@@ -37,7 +37,7 @@ Pré requisitos e como rodar a aplicação
 Além disto é bom ter um editor para trabalhar com o código como <a href="https://code.visualstudio.com/">VSCode</a></p>
 
 <h3>Rodando o Back End (Servidor)</h3>
-```bash
+``` bash
 # Clone este repositório
 $ git clone <https://github.com/JMessiasCarvalho/superagames.git>
 
